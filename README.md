@@ -27,10 +27,10 @@ Bu proje, HL7 formatına uygun hasta bilgilerini kaydeden, listeleyen ve hasta t
     ```
 2. Varsayılan olarak hasta kaydı ekleyebilir, listeleyebilir ve hasta taburcu edebilirsiniz. Aşağıdaki seçenekler ile işlemleri gerçekleştirebilirsiniz:
 
-1. **`1`**: Yeni hasta kaydı ekler.
-2. **`2`**: Mevcut hasta listesini öncelik sırasına göre gösterir.
-3. **`3`**: İlk sıradaki hastayı taburcu eder.
-4. **`4`**: Programdan çıkış yapar.
+    **`1`**: Yeni hasta kaydı ekler.
+    **`2`**: Mevcuthasta listesini öncelik sırasına göre gösterir.
+    **`3`**: İlk sıradaki hastayı taburcu eder.
+    **`4`**: Programdan çıkış yapar.
 
 ## Fonksiyonlar
 
