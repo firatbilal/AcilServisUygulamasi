@@ -12,7 +12,7 @@ Bu proje, HL7 formatına uygun hasta bilgilerini kaydeden, listeleyen ve hasta t
 
 1. Bu repoyu klonlayın:
     ```bash
-    git clone https://github.com/AcilServisUygulamasi/AcilServis.git
+    git clone https://github.com/firatbilal/AcilServisUygulamasi
     ```
 2. Derleyici ile kodu derleyin:
     ```bash
